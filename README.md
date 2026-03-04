@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5A623&height=180&section=header&text=Hello%20There!%20🐾&fontSize=60&fontColor=ffffff" />
-</div>
 
-<div align="center">
-
-# 嗨，我是 **Tzu-Hsuan** !
-
-</div>
 
 
 ### 🛠️ Tech Stack
